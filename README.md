@@ -1,2 +1,2 @@
-# Binarios_C
+# Analyzed binaries
 Repositório de códigos analisados
